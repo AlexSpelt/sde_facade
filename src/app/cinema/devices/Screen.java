@@ -1,4 +1,4 @@
-package app;
+package app.cinema.devices;
 
 public class Screen {
     String description;

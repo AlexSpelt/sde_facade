@@ -1,4 +1,4 @@
-package app;
+package app.cinema.devices;
 
 public class CdPlayer {
     String description;
